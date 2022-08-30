@@ -2,7 +2,7 @@ import React from 'react';
 
 const List = () => {
     return (<div>
-        List
+        List 1
     </div>)
 }
 
